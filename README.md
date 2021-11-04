@@ -8,13 +8,7 @@
 
 
 Скан коды: 
-  0x04	Keyboard a and A
-	0x05	Keyboard b and B
-	0x06	Keyboard c and C
-	0x07	Keyboard d and D
-	0x08	Keyboard e and E
-	0x09	Keyboard f and F
-	0x0A	Keyboard g and G
+  0x04	Keyboard a | 0x05 Keyboard b | 0x06 Keyboard c | 0x07 Keyboard d | 0x08	Keyboard e | 0x09 Keyboard f | 0x0A Keyboard g |
 	0x0B	Keyboard h and H
 	0x0C	Keyboard i and I
 	0x0D	Keyboard j and J
