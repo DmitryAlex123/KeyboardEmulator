@@ -16,3 +16,6 @@
 
 Так выглядит эмулятор:
 ![Altium_Render](HID_Emulator.jpg)
+
+Изготовленное устройство:
+![Real_Photo](Real_photo.jpg)
